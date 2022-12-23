@@ -1,6 +1,6 @@
-# PHP8.1環境
+# PHP8.2環境
 
-PHP8.1 のGitHubテンプレートリポジトリです。
+PHP8.2 のGitHubテンプレートリポジトリです。
 
 ## インストール
 
@@ -45,7 +45,7 @@ Dockerを使って環境を構築します。
 ### 構築する環境
 
 - Webコンテナ
-  - [php:8.1.8-apache](https://hub.docker.com/_/php)
+  - [php:8.2.0-apache](https://hub.docker.com/_/php)
   - [composer:2.3.10](https://hub.docker.com/_/composer)
 - DBコンテナ
   - [mysql:8.0.29](https://hub.docker.com/_/mysql)

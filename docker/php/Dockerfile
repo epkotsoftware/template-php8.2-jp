@@ -1,4 +1,4 @@
-FROM php:8.1.8-apache
+FROM php:8.2.0-apache
 # composer php.iniをコピー
 COPY ./php.ini /usr/local/etc/php/
 # composer インストール (マルチステージビルド)
